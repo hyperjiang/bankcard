@@ -1,0 +1,12 @@
+{
+    "name": "hyperjiang/bankcard",
+    "description": "通过银行卡号查询所属银行和银行卡类型",
+    "type": "library",
+    "license": "GNU",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hyperjiang\\": "src/hyperjiang/"
+        }
+    }
+}
